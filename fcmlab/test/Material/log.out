@@ -1,0 +1,4 @@
+1D linear elastic material with Young's modulus = 123456, area = 2, density = 0 and scaling factor = 1
+3D linear elastic material with Young's modulus = 150, Poissons ratio = 0.3 and density = 0 and scaling factor = 1
+2D linear elastic plane strain material with Young's modulus = 150, Poissons ratio = 0.3 and density = 0 and scaling factor = 1
+2D linear elastic plane stress material with Young's modulus = 150, Poissons ratio = 0.3 and density = 0 and scaling factor = 1
