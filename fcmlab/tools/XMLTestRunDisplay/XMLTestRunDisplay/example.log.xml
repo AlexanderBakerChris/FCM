@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Example test log." label="Example JUnit-style XML test log." time="0.549076" tests="2" failures="1" errors="0" skipped="0" hostname="jkarr-opti-980" timestamp="2011-12-07 10:49:57">
+	<properties>
+		<property name="revision" value=""/>
+		<property name="matlab.version" value="7.11.0.584 (R2010b)"/>
+		<property name="java.version" value="Java 1.6.0_17-b04 with Sun Microsystems Inc. Java HotSpot(TM) 64-Bit Server VM mixed mode"/>
+	</properties>
+	<testcase classname="edu.stanford.covert.util.computerInfoTest" name="testComputerInformation" time="0.010088"/>
+	<testcase classname="edu.stanford.covert.util.revisionTest" name="testRevision" time="0.503606">
+		<failure type="revision:svnError" message="No subversion client available"><![CDATA[C:\Users\jkarr\Documents\matlabcentral\XMLTestRunDisplay\src\+edu\+stanford\+covert\+util\revision.m at line 19
+C:\Users\jkarr\Documents\matlabcentral\XMLTestRunDisplay\src\+edu\+stanford\+covert\+util\revision.m at line 4
+C:\Users\jkarr\Documents\matlabcentral\XMLTestRunDisplay\src_test\+edu\+stanford\+covert\+util\revisionTest.m at line 8
+
+No subversion client available]]></failure>
+	</testcase>
+	<system-out><![CDATA[]]></system-out>
+	<system-err><![CDATA[]]></system-err>
+</testsuite>
